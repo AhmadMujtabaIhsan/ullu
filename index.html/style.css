@@ -1,0 +1,290 @@
+h1{color: rgb(40, 134, 134); text-decoration: underline; text-align: center;}
+#f_parent_div
+{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+    gap: 1%;
+   
+}
+
+#div_1
+{
+    border: 0;
+    border-radius: 5px;
+    background-color:rgb(240, 225, 206);
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    align-content: center;
+    font-size: 30px;
+    box-shadow: 1px 1px 10px;
+}
+
+#d1_o_b
+{
+    visibility: hidden;
+    position: absolute;
+    top: 108px;
+}
+
+#d1_x_b
+{
+    visibility: hidden;
+}
+
+#div_2
+{
+    border-width: 5px;
+    border-style: solid;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    align-content: center;
+    border: 0;
+    border-radius: 5px;
+    background-color:rgb(240, 225, 206);
+    font-size: 30px;
+    box-shadow: 1px 1px 10px;
+}
+
+#d2_o_b
+{
+    visibility: hidden;
+    position: absolute;
+    top: 108px;
+}
+
+#d2_x_b
+{
+    visibility: hidden;
+}
+
+#div_3
+{
+    border-width: 5px;
+    border-style: solid;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    align-content: center;
+    border: 0;
+    border-radius: 5px;
+    background-color:rgb(240, 225, 206);
+    font-size: 30px;
+    box-shadow: 1px 1px 10px;
+}
+
+#d3_o_b
+{
+    visibility: hidden;
+    position: absolute;
+    top: 108px;
+}
+
+#d3_x_b
+{
+    visibility: hidden;
+}
+
+
+#s_parent_div
+{
+   display: flex;
+   justify-content: center;
+   gap: 1%;
+   margin-top: 10px;
+}
+
+#div_4
+{
+    border-width: 5px;
+    border-style: solid;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    align-content: center;
+    border: 0;
+    border-radius: 5px;
+    background-color:rgb(240, 225, 206);
+    font-size: 30px;
+    box-shadow: 1px 1px 10px;
+}
+
+#d4_o_b
+{
+    visibility: hidden;
+    position: absolute;
+    top: 220px;
+}
+
+#d4_x_b
+{
+    visibility: hidden;
+}
+
+#div_5
+{
+    border-width: 5px;
+    border-style: solid;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    align-content: center;
+    border: 0;
+    border-radius: 5px;
+    background-color:rgb(240, 225, 206);
+    font-size: 30px;
+    box-shadow: 1px 1px 10px;
+}
+
+#d5_o_b
+{
+    visibility: hidden;
+    position: absolute;
+    top: 220px;
+}
+
+#d5_x_b
+{
+    visibility: hidden;
+}
+
+
+#div_6
+{
+    border-width: 5px;
+    border-style: solid;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    align-content: center;
+    border: 0;
+    border-radius: 5px;
+    background-color:rgb(240, 225, 206);
+    font-size: 30px;
+    box-shadow: 1px 1px 10px;
+}
+
+#d6_o_b
+{
+    visibility: hidden;
+    position: absolute;
+    top: 220px;
+}
+
+
+#d6_x_b
+{
+    visibility: hidden;
+}
+
+#t_parent_div
+{
+   display: flex;
+   justify-content: center;
+   gap: 1%;
+   margin-top: 10px;
+}
+
+#div_7
+{
+    border-width: 5px;
+    border-style: solid;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    align-content: center;
+    border: 0;
+    border-radius: 5px;
+    background-color:rgb(240, 225, 206);
+    font-size: 30px;
+    box-shadow: 1px 1px 10px;
+}
+
+#d7_o_b
+{
+    visibility: hidden;
+    position: absolute;
+    bottom:280px;
+}
+
+#d7_x_b
+{
+    visibility: hidden;
+}
+
+
+#div_8
+{
+    border-width: 5px;
+    border-style: solid;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    align-content: center;
+    border: 0;
+    border-radius: 5px;
+    background-color:rgb(240, 225, 206);
+    font-size: 30px;
+    box-shadow: 1px 1px 10px;
+}
+
+#d8_o_b
+{
+    visibility: hidden;
+    position: absolute;
+    bottom:280px;
+}
+
+#d8_x_b
+{
+    visibility: hidden;
+}
+
+#div_9
+{
+    border: 5PX;
+    border-width: 5px;
+    border-style: solid;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    align-content: center;
+    border: 0;
+    border-radius: 5px;
+    background-color:rgb(240, 225, 206);
+    font-size: 30px;
+    box-shadow: 1px 1px 10px;
+}
+
+#d9_o_b
+{
+    visibility: hidden;
+    position: absolute;
+    bottom:280px;
+}
+
+#d9_x_b
+{
+    visibility: hidden;
+}
+
+#reset_btn
+{
+    border: none; 
+    color: white; 
+    background-color: teal;
+    margin-left: 600px;
+    margin-top: 50px;
+    width: 100px;
+    height: 60px;
+    border-radius: 10px;
+}
+
+body
+{
+    background: #ee9ca7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ffdde1, #ee9ca7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ffdde1, #ee9ca7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
